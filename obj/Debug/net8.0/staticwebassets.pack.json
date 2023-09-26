@@ -1,0 +1,97 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\obj\\Debug\\net8.0\\compressed\\gg855z43xr.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorTailwind.styles.css",
+      "PackagePath": "staticwebassets\\BlazorTailwind.styles.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\css\\output.css",
+      "PackagePath": "staticwebassets\\css\\output.css"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\img\\beams.jpg",
+      "PackagePath": "staticwebassets\\img\\beams.jpg"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\img\\logo.svg"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\747Devs\\747\\DotNet\\BlazorTailwind\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorTailwind.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorTailwind.props",
+      "PackagePath": "build\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorTailwind.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTailwind.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorTailwind.props",
+      "PackagePath": "buildTransitive\\BlazorTailwind.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
